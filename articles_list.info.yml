@@ -15,5 +15,3 @@ regions:
   sidebar_first: First sidebar
   sidebar_second: Second sidebar
   footer: Footer
-dependencies:
-  - twig_weak:twig_tweak
